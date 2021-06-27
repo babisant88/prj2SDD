@@ -10,6 +10,6 @@ In order to build the program just run make.
 
 In order to run the progrma type in the command line %prj2SDD <A> <n>
 
-, where A is the given matrix, n its dimension.
+, where A is the given matrix and n its dimension.
 
 

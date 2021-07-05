@@ -6,7 +6,7 @@ to a given matrix A with nonnegative diagonal, in the Frobenius norm i.e. the fo
 	min ||A-X||   s.t X ε SDD
  	 X
 
-Make sure that you have installed the Eigen library in your system (https://eigen.tuxfamily.org/index.php?title=Main_Page).
+Make sure that you have already installed the Eigen library in your system (https://eigen.tuxfamily.org/index.php?title=Main_Page).
 In order to build the program just run make.
 
 In order to run the progrma type in the command line %prj2SDD <A> <n>
